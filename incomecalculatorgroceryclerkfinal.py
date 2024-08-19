@@ -1,3 +1,4 @@
+#does a bi-weekly income calculations from my grocery clerk job based on Ontario taxes on 6 August 2024
 # x is hourly wage
 # y is hours
 # z is holiday wage
